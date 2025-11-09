@@ -27,7 +27,7 @@ To get started with the simulation, please ensure you have the following install
 Follow these steps to set up the project:
 1. **Clone the repository** (or download the project files) to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/iman-eivazi/MonteCarlo-NeutronShield.git
 Install the requirements. You can install NumPy (and any other dependencies) using pip:
 bash
 Copy code
